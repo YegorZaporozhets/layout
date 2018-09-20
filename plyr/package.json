@@ -1,0 +1,151 @@
+{
+  "_args": [
+    [
+      "plyr",
+      "/home/dunice/zaporozhec/layout"
+    ]
+  ],
+  "_from": "plyr@latest",
+  "_id": "plyr@3.3.23",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/plyr",
+  "_nodeVersion": "10.7.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/plyr_3.3.23_1532955407765_0.8685646955030328"
+  },
+  "_npmUser": {
+    "email": "me@sampotts.me",
+    "name": "sampotts"
+  },
+  "_npmVersion": "6.2.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "plyr",
+    "raw": "plyr",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/plyr/-/plyr-3.3.23.tgz",
+  "_shasum": "e5cc7b3d9be0e425418aab5ff42cbd7fadbb32b0",
+  "_shrinkwrap": null,
+  "_spec": "plyr",
+  "_where": "/home/dunice/zaporozhec/layout",
+  "author": {
+    "email": "sam@potts.es",
+    "name": "Sam Potts"
+  },
+  "browser": "./dist/plyr.min.js",
+  "bugs": {
+    "url": "https://github.com/sampotts/plyr/issues"
+  },
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "custom-event-polyfill": "^1.0.6",
+    "loadjs": "^3.5.4",
+    "raven-js": "^3.26.4",
+    "url-polyfill": "^1.0.13"
+  },
+  "description": "A simple, accessible and customizable HTML5, YouTube and Vimeo media player",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-eslint": "^8.2.6",
+    "babel-plugin-external-helpers": "^6.22.0",
+    "babel-preset-env": "^1.7.0",
+    "del": "^3.0.0",
+    "eslint": "^5.2.0",
+    "eslint-config-airbnb-base": "^13.0.0",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-import": "^2.13.0",
+    "fastly-purge": "^1.0.1",
+    "git-branch": "^2.0.1",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-better-rollup": "^3.3.0",
+    "gulp-clean-css": "^3.9.4",
+    "gulp-concat": "^2.6.1",
+    "gulp-filter": "^5.1.0",
+    "gulp-header": "^2.0.5",
+    "gulp-open": "^3.0.1",
+    "gulp-postcss": "^7.0.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-replace": "^1.0.0",
+    "gulp-s3": "^0.11.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-size": "^3.0.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-svgmin": "^1.2.4",
+    "gulp-svgstore": "^6.1.1",
+    "gulp-uglify-es": "^1.0.4",
+    "gulp-util": "^3.0.8",
+    "postcss-custom-properties": "^7.0.0",
+    "prettier-eslint": "^8.8.2",
+    "prettier-stylelint": "^0.4.2",
+    "remark-cli": "^5.0.0",
+    "remark-validate-links": "^7.0.0",
+    "rollup-plugin-babel": "^3.0.7",
+    "rollup-plugin-commonjs": "^9.1.4",
+    "rollup-plugin-node-resolve": "^3.3.0",
+    "run-sequence": "^2.2.1",
+    "stylelint": "^9.4.0",
+    "stylelint-config-prettier": "^3.3.0",
+    "stylelint-config-recommended": "^2.1.0",
+    "stylelint-config-sass-guidelines": "^5.0.0",
+    "stylelint-order": "^0.8.1",
+    "stylelint-scss": "^3.2.0",
+    "stylelint-selector-bem-pattern": "^2.0.0",
+    "through2": "^2.0.3"
+  },
+  "directories": {
+    "doc": "readme.md"
+  },
+  "dist": {
+    "fileCount": 107,
+    "integrity": "sha512-xru8fE3xXWPA77L6Qhr7bLn609RQM5KbKcpEE/52h1ic9wYyRh7pdg3Y5V3cHYFkd0Oth/8AynEJizWXQqhNYg==",
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbXwsQCRA9TVsSAnZWagAAGGAP/Re91b9yZsQbW+e9cn9A\nyAHBGUsPzyBL7iFrtK48cmo3cMZ9EhYFWA7AkKqlcGwxrs/ABY4zC+8QRyby\ndv/3++AiYF9k2Imyvx4Pj+WH4XcOK3CiQtRCfNAIj3iM1vLCFlrNXSrYzzei\nS3bWBFXren+4KsEBNcrEcGl9VBJBe9Azx4j3mu/aHWJ5avlgXTfWWhS+YKkD\noUgAzRwQnWKcBp/MSdnegmeDbKWejybyx+e+S2WZyl7Bo2UoeiAhlI1heRr7\n/Tv8QNpv1nMslB47CHNhL3OODOeIABlpQ8cteXAUf7YL+oDt7XbZ1yTKfjR4\njbIu6Hqx4kVTeHW93xCZNc2gXkKmP1DvZLKAjiSaOLjGqbv56GRuN8E5sT5u\nxhIFhQBmmIABF2RNg4YWErT/pn1hqqICUexCOnOSjOdAlZyUBOqlWXvsyFy+\nefP+DdAXbfHuDOPeeqLZhJ73GPFbFsDgZW9r0X5su0itcwX9Kq6BsSIUt3ZU\nBAmag+qh50CJji0Yzdum3lr4T47Ma+CLNZIGr0lupt4HuafYT8jwo1RSNR5z\nUNl4E1PaNJz4ZzJYdPFTFZepDb5bBuReViioWYw+yov1C/lbnyaS4j0hmeH/\n84V/2pUGudcJfHjDwY/fI7vIkO+5dmGIWODCKS3OXm7nL1D0nouaYW0VpKop\n49sT\r\n=D6eb\r\n-----END PGP SIGNATURE-----\r\n",
+    "shasum": "e5cc7b3d9be0e425418aab5ff42cbd7fadbb32b0",
+    "tarball": "https://registry.npmjs.org/plyr/-/plyr-3.3.23.tgz",
+    "unpackedSize": 3737914
+  },
+  "gitHead": "2679c5898edd534d19b5b2f68d895641c3e3fb1a",
+  "homepage": "https://plyr.io",
+  "keywords": [
+    "DASH",
+    "HLS",
+    "HTML5 Audio",
+    "HTML5 Video",
+    "Media Player",
+    "Shaka",
+    "WordPress"
+  ],
+  "license": "MIT",
+  "main": "./dist/plyr.js",
+  "maintainers": [
+    {
+      "name": "sampotts",
+      "email": "sam@selz.com"
+    }
+  ],
+  "name": "plyr",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sampotts/plyr.git"
+  },
+  "sass": "./src/sass/plyr.scss",
+  "scripts": {
+    "build": "gulp build",
+    "lint": "eslint src/js && npm run-script remark",
+    "remark": "remark -f --use 'validate-links=repository:\"sampotts/plyr\"' '{,!(node_modules),.?**/}*.md'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "style": "./dist/plyr.css",
+  "version": "3.3.23"
+}
